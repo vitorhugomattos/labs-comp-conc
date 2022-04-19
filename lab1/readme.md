@@ -1,5 +1,6 @@
-# Laboratório 1
-Vitor Hugo Mattos // 117054396
+# Laboratório 1 - ICP117
+Vitor Hugo Mattos (117054396)
+
 ## Respostas das questões 
 
 ### Atividade 1
